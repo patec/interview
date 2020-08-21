@@ -1,0 +1,48 @@
+{
+  "patients": [
+    {
+      "first_name": "John",
+      "last_name": "Smith",
+      "dob": "2000-01-01",
+      "insurances": [
+        {
+          "primary": "true",
+          "trading_partner_id": "Aetna",
+          "active": "true"
+        }
+      ],
+      "memebr_id": "12CX339933",
+      "plan_nam": "Gold Plus"
+    },
+    {
+      "first_name": "Alex",
+      "last_name": "Thompson",
+      "dob": "1990-04-21",
+      "gender": "M",
+      "insurances": [
+        {
+          "primary": "true",
+          "trading_partner_id": "BCBS",
+          "active": "true"
+        }
+      ],
+      "memebr_id": "99124033",
+      "plan_nam": "Premier Status"
+    },
+    {
+      "first_name": "Allison",
+      "last_name": "Sperry",
+      "dob": "1970-12-02",
+      "gender": "F",
+      "insurances": [
+        {
+          "primary": "true",
+          "trading_partner_id": "UHC",
+          "active": "false"
+        }
+      ],
+      "memebr_id": "994214004",
+      "plan_nam": "Premium"
+    }
+  ]
+}
